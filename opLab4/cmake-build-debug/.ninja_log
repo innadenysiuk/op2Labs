@@ -1,0 +1,5 @@
+# ninja log v5
+1	543	1682020347476876016	CMakeFiles/opLab4.dir/class.cpp.o	c86c58e4d2af7b80
+1	544	1682020347478682422	CMakeFiles/opLab4.dir/main.cpp.o	2006e4957dca9fe6
+2	544	1682020347478689172	CMakeFiles/opLab4.dir/functions.cpp.o	7b5ba0b63eb0ef19
+544	595	1682020347531221317	opLab4	9e740441f0aeff9c
